@@ -5,7 +5,8 @@
 
 Concept:
 
-You control a white square. Various geometric shapes float across the screen, representing healthy and unhealthy food particles.
+You control a white square. Various geometric shapes float across the screen, representing healthy and unhealthy food
+particles.
 
 * Eating green shapes (circles, triangles, polygons, 3D shapes) makes your character grow in size.
 * Eating red shapes (squares, rectangles, ovals, other geometric shapes) causes you to lose health.
@@ -13,6 +14,7 @@ You control a white square. Various geometric shapes float across the screen, re
 * As you eat more food and grow larger, avoiding unhealthy food becomes more challenging.
 
 LEVEL SYSTEM:
+
 * Progress through 10 increasingly difficult levels with higher speeds and food density
 * Each level requires eating a specific number of food particles to advance
 * Player size slightly decreases when advancing to new levels for increased challenge
@@ -25,11 +27,13 @@ Purple circles appear periodically with timed effects:
 3. Weight Gain & Weight Loss - Immediate size change (gain 10 units or lose 8 units)
 
 CONTROLS:
+
 * Mouse/Touch: Click/tap to move player to target position
 * Keyboard: WASD or Arrow keys for movement
 * Works on both desktop and mobile devices
 
 FEATURES:
+
 * 20+ different geometric shapes for food particles
 * Particle effects for collisions
 * Screen shake effects
