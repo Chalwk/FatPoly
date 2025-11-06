@@ -1,4 +1,4 @@
--- FatPoly - Love2D Game for Android & Windows
+-- FatPoly - Love2D
 -- License: MIT
 -- Copyright (c) 2025 Jericho Crosby (Chalwk)
 
